@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="ttl desc">
+<title id="ttl">Bhargav Ram — AI and Data Science GitHub profile banner</title>
+<desc id="desc">A two-column terminal interface with a neural network visual, name, education, skills, and GitHub handle. Subtle decorative animations respect reduced-motion preferences.</desc>
+<defs>
+  <linearGradient id="fillBg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F4F8FF"/><stop offset="1" stop-color="#EFF5FC"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6D44CD"/><stop offset="1" stop-color="#087E9B"/></linearGradient>
+  <linearGradient id="under" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6D44CD"/><stop offset=".60" stop-color="#087E9B"/><stop offset="1" stop-color="#087A61"/></linearGradient>
+  <clipPath id="neuralClip"><rect x="48" y="115" width="425" height="402" rx="15"/></clipPath>
+  <style>
+    .mono {font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace}
+    .sans {font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif}
+    .pulse{animation:pulse 3s ease-in-out infinite}
+    .orbit{animation:rotate 28s linear infinite;transform-origin:260px 312px}
+    .orbit-reverse{animation:rotate 35s linear infinite reverse;transform-origin:260px 312px}
+    .cursor{animation:blink 1.25s steps(1) infinite}
+    @keyframes rotate{to{transform:rotate(360deg)}}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.48}}
+    @keyframes blink{0%,45%{opacity:1}46%,100%{opacity:0}}
+    @media(prefers-reduced-motion:reduce){.orbit,.orbit-reverse,.pulse,.cursor{animation:none}}
+  </style>
+</defs>
+<rect x="0.5" y="0.5" width="1179" height="609" rx="22" fill="url(#fillBg)" stroke="#CAD7E9"/>
+<rect x="22" y="22" width="1136" height="566" rx="18" fill="#FFFFFF" stroke="#CAD7E9" stroke-width="2"/>
+<path d="M40 81H1140" stroke="#CAD7E9" stroke-width="2"/>
+<circle cx="50" cy="51" r="7" fill="#EF777A"/><circle cx="74" cy="51" r="7" fill="#F2C263"/><circle cx="98" cy="51" r="7" fill="#6ACEA7"/>
+<text class="mono" x="135" y="57" fill="#415A77" font-size="16">profile.sh  —  bhargav@github:~</text>
+<text class="mono" x="1110" y="57" text-anchor="end" fill="#667E9C" font-size="13">BUILDING  •  LEARNING  •  RESEARCH</text>
+<rect x="48" y="115" width="425" height="402" rx="15" fill="#EFF5FC" stroke="#CAD7E9" stroke-width="2"/>
+
+<g clip-path="url(#neuralClip)">
+<path d="M59 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M85 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M111 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M137 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M163 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M189 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M215 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M241 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M267 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M293 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M319 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M345 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M371 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M397 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M423 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M449 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M475 115V517" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 130H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 156H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 182H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 208H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 234H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 260H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 286H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 312H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 338H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 364H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 390H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 416H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 442H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 468H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 494H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<path d="M48 520H473" stroke="#CAD7E9" stroke-opacity=".23"/>
+<circle cx="260" cy="312" r="167" fill="#D0F0F6" opacity=".35"/>
+<circle cx="260" cy="312" r="151" fill="none" stroke="#6D44CD" stroke-opacity=".36" stroke-dasharray="8 18" stroke-width="2" class="orbit"/>
+<circle cx="260" cy="312" r="119" fill="none" stroke="#087E9B" stroke-opacity=".57" stroke-dasharray="5 14" stroke-width="2" class="orbit-reverse"/>
+<line x1="128" y1="198" x2="236" y2="228" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="198" x2="236" y2="287" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="198" x2="236" y2="405" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="250" x2="236" y2="169" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="250" x2="236" y2="287" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="250" x2="236" y2="346" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="302" x2="236" y2="169" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="302" x2="236" y2="228" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="302" x2="236" y2="346" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="302" x2="236" y2="405" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="354" x2="236" y2="228" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="354" x2="236" y2="287" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="354" x2="236" y2="405" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="406" x2="236" y2="169" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="406" x2="236" y2="287" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="128" y1="406" x2="236" y2="346" stroke="#6D44CD" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="236" y1="169" x2="350" y2="219" stroke="#087E9B" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="236" y1="169" x2="350" y2="293" stroke="#087E9B" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="236" y1="228" x2="350" y2="293" stroke="#087E9B" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="236" y1="228" x2="350" y2="367" stroke="#087E9B" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="236" y1="287" x2="350" y2="219" stroke="#087E9B" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="236" y1="287" x2="350" y2="367" stroke="#087E9B" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="236" y1="346" x2="350" y2="219" stroke="#087E9B" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="236" y1="346" x2="350" y2="293" stroke="#087E9B" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="236" y1="405" x2="350" y2="293" stroke="#087E9B" stroke-opacity=".20" stroke-width="1.5"/>
+<line x1="236" y1="405" x2="350" y2="367" stroke="#087E9B" stroke-opacity=".20" stroke-width="1.5"/>
+<circle cx="128" cy="198" r="8.5" fill="#FFFFFF" stroke="#6D44CD" stroke-width="2.3"/><circle cx="128" cy="198" r="2.7" fill="#6D44CD"/>
+<circle cx="128" cy="250" r="8.5" fill="#FFFFFF" stroke="#6D44CD" stroke-width="2.3"/><circle cx="128" cy="250" r="2.7" fill="#6D44CD"/>
+<circle cx="128" cy="302" r="8.5" fill="#FFFFFF" stroke="#6D44CD" stroke-width="2.3"/><circle cx="128" cy="302" r="2.7" fill="#6D44CD"/>
+<circle cx="128" cy="354" r="8.5" fill="#FFFFFF" stroke="#6D44CD" stroke-width="2.3"/><circle cx="128" cy="354" r="2.7" fill="#6D44CD"/>
+<circle cx="128" cy="406" r="8.5" fill="#FFFFFF" stroke="#6D44CD" stroke-width="2.3"/><circle cx="128" cy="406" r="2.7" fill="#6D44CD"/>
+<circle cx="236" cy="169" r="8.5" fill="#FFFFFF" stroke="#087E9B" stroke-width="2.3"/><circle cx="236" cy="169" r="2.7" fill="#087E9B"/>
+<circle cx="236" cy="228" r="8.5" fill="#FFFFFF" stroke="#087E9B" stroke-width="2.3"/><circle cx="236" cy="228" r="2.7" fill="#087E9B"/>
+<circle cx="236" cy="287" r="8.5" fill="#FFFFFF" stroke="#087E9B" stroke-width="2.3"/><circle cx="236" cy="287" r="2.7" fill="#087E9B"/>
+<circle cx="236" cy="346" r="8.5" fill="#FFFFFF" stroke="#087E9B" stroke-width="2.3"/><circle cx="236" cy="346" r="2.7" fill="#087E9B"/>
+<circle cx="236" cy="405" r="8.5" fill="#FFFFFF" stroke="#087E9B" stroke-width="2.3"/><circle cx="236" cy="405" r="2.7" fill="#087E9B"/>
+<circle cx="350" cy="219" r="8.5" fill="#FFFFFF" stroke="#087A61" stroke-width="2.3"/><circle cx="350" cy="219" r="2.7" fill="#087A61"/>
+<circle cx="350" cy="293" r="8.5" fill="#FFFFFF" stroke="#087A61" stroke-width="2.3"/><circle cx="350" cy="293" r="2.7" fill="#087A61"/>
+<circle cx="350" cy="367" r="8.5" fill="#FFFFFF" stroke="#087A61" stroke-width="2.3"/><circle cx="350" cy="367" r="2.7" fill="#087A61"/>
+<rect x="103" y="458" width="313" height="37" rx="10" fill="#F4F8FF" stroke="#CAD7E9"/>
+<text class="mono" x="119" y="482" font-size="15" fill="#087A61">MODEL: RESEARCH / PROTOTYPING</text>
+</g>
+<text class="mono" x="67" y="144" font-size="14" fill="#6D44CD">01 / FOCUS.VISUAL</text>
+<rect x="498" y="114" width="634" height="402" rx="15" fill="#EFF5FC" stroke="#CAD7E9" stroke-width="2"/>
+<text class="mono" x="526" y="149" font-size="15" letter-spacing="1" fill="#087E9B">02 / SYSTEM.INFO</text>
+<circle class="pulse" cx="1083" cy="142" r="6" fill="#087A61"/>
+<text class="mono" x="1115" y="148" text-anchor="end" font-size="13" fill="#087A61">LIVE</text>
+<text class="sans" x="526" y="218" font-size="44" font-weight="750" letter-spacing="-1.1" fill="#12223A">BHARGAV RAM</text>
+<rect x="526" y="236" width="565" height="3.5" rx="2" fill="url(#under)"/>
+<text class="mono" x="526" y="271" font-size="20" fill="#087E9B">AI &amp; DATA SCIENCE</text>
+<text class="mono" x="526" y="301" font-size="15" fill="#415A77">Computer Vision  /  Deep Learning  /  ML Systems</text>
+<text class="mono" x="526" y="336" font-size="14" fill="#667E9C">EDUCATION</text>
+<text class="mono" x="674" y="336" font-size="14" fill="#CAD7E9">·····</text>
+<text class="mono" x="756" y="336" font-size="14" fill="#12223A">B.Tech · AI &amp; Data Science</text>
+<text class="mono" x="526" y="373" font-size="14" fill="#667E9C">UNIVERSITY</text>
+<text class="mono" x="674" y="373" font-size="14" fill="#CAD7E9">·····</text>
+<text class="mono" x="756" y="373" font-size="14" fill="#12223A">Amrita Vishwa Vidyapeetham</text>
+<text class="mono" x="526" y="410" font-size="14" fill="#667E9C">LOCATION</text>
+<text class="mono" x="674" y="410" font-size="14" fill="#CAD7E9">·····</text>
+<text class="mono" x="756" y="410" font-size="14" fill="#12223A">Faridabad, India</text>
+<text class="mono" x="526" y="447" font-size="14" fill="#667E9C">LANGUAGES</text>
+<text class="mono" x="674" y="447" font-size="14" fill="#CAD7E9">·····</text>
+<text class="mono" x="756" y="447" font-size="14" fill="#12223A">Python · Java</text>
+<text class="mono" x="526" y="484" font-size="14" fill="#667E9C">STACK</text>
+<text class="mono" x="674" y="484" font-size="14" fill="#CAD7E9">·····</text>
+<text class="mono" x="756" y="484" font-size="14" fill="#12223A">PyTorch · scikit-learn · NumPy</text>
+<rect x="48" y="537" width="397" height="32" rx="16" fill="#D0F0F6" stroke="#CAD7E9"/>
+<text class="mono" x="64" y="558" font-size="15" fill="#087E9B">github.com/Bhargav12-surya</text>
+<text class="mono" x="1130" y="559" text-anchor="end" font-size="15" fill="#415A77">OPEN TO AI / ML COLLABORATION</text>
+</svg>

@@ -2,9 +2,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/light.svg">
-  <img src="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/light.svg" alt="Bhargav Ram GitHub banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/banner-dark-2026.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/banner-light-2026.svg">
+  <img src="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/banner-light-2026.svg" alt="Bhargav Ram GitHub banner" width="100%">
 </picture>
 
 # Hi, I'm Bhargav Ram 👋
@@ -37,7 +37,7 @@ I enjoy building machine learning projects end-to-end — from data preparation 
 ## 🌟 Featured Projects
 
 ### 🫁 [MSF-HSAT — 3D Lung Tumor Segmentation](https://github.com/Bhargav12-surya/CV-lung-segmentation-)
-A research-focused PyTorch pipeline for **3D thoracic CT tumor segmentation** using multi-scale feature fusion, transformer context, wavelet attention, and adaptive decoder fusion. Built with an emphasis on evaluation, reproducibility, and result analysis.
+A research-focused PyTorch pipeline for **3D thoracic CT tumor segmentation** using multi-scale feature fusion, transformer context, wavelet attention, and adaptive decoder fusion. Built with an emphasis on evaluation, reproducibility, and result analysis. *For research and education, not clinical use.*
 
 **Tech:** `Python` `PyTorch` `3D CNNs` `Transformers` `Medical Imaging`
 

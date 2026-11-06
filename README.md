@@ -1,9 +1,9 @@
 <!-- Personalized GitHub profile: Bhargav12-surya/Bhargav12-surya -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/hero-dark-v3.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/hero-light-v3.svg" />
-    <img src="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/hero-light-v3.svg" width="100%" alt="Bhargav Ram — Artificial Intelligence and Data Science" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/hero-dark-v4.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/hero-light-v4.svg" />
+    <img src="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/hero-light-v4.svg" width="100%" alt="Bhargav Ram — Artificial Intelligence and Data Science" />
   </picture>
 
   <a href="https://www.linkedin.com/in/bhargav-ram01">LinkedIn</a>
@@ -12,22 +12,22 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/Bhargav12-surya?tab=repositories">Repositories</a>
 
-  <h3><code>bhargav@github:~$ whoami</code></h3>
+  <h2>About Me</h2>
 
   <table>
     <tr>
       <td width="38%" valign="top">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/signal-dark-v3.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/signal-light-v3.svg" />
-          <img src="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/signal-light-v3.svg" alt="Animated Bhargav Ram signal monogram" width="100%" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/signal-dark-v4.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/signal-light-v4.svg" />
+          <img src="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/signal-light-v4.svg" alt="Animated Bhargav Ram signal monogram" width="100%" />
         </picture>
       </td>
       <td width="62%" valign="top">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/info-dark-v3.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/info-light-v3.svg" />
-          <img src="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/info-light-v3.svg" alt="Bhargav's education, research interests and technologies" width="100%" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/info-dark-v4.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/info-light-v4.svg" />
+          <img src="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/info-light-v4.svg" alt="Bhargav's education, research interests and technologies" width="100%" />
         </picture>
       </td>
     </tr>
@@ -36,7 +36,7 @@
 
 I'm a B.Tech student in **Artificial Intelligence & Data Science** at **Amrita Vishwa Vidyapeetham, Faridabad**. I enjoy building machine learning projects from initial experiments to evaluated, documented results — especially in **medical imaging and scientific AI**.
 
-### `bhargav@github:~$ ls featured-projects/`
+## Featured Projects
 
 | Project | What I worked on | Tools / Areas |
 | :--- | :--- | :--- |
@@ -46,7 +46,7 @@ I'm a B.Tech student in **Artificial Intelligence & Data Science** at **Amrita V
 
 **Other project:** Hybrid ML–DL Crystal Structure–Property Modeling — exploring graph, convolutional, and multi-task models for material-property prediction.
 
-### `bhargav@github:~$ cat toolbox.txt`
+## Technical Skills
 
 | Area | Stack |
 | :--- | :--- |
@@ -56,7 +56,7 @@ I'm a B.Tech student in **Artificial Intelligence & Data Science** at **Amrita V
 | **Development** | Git · GitHub · Jupyter Notebook · VS Code |
 | **Interests** | Computer Vision · Medical Imaging · Probabilistic AI · Scientific ML |
 
-### `bhargav@github:~$ cat credentials.txt`
+## Certifications &amp; Learning
 
 - **Oracle Cloud Infrastructure** — AI Foundations Associate (2025)
 - **Cisco Networking Academy** — Introduction to Modern AI

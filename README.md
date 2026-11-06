@@ -1,82 +1,70 @@
-<!-- GitHub profile repository: Bhargav12-surya/Bhargav12-surya -->
+<!-- Personalized GitHub profile: Bhargav12-surya/Bhargav12-surya -->
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark-v3.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light-v3.svg" />
+    <img src="./assets/hero-light-v3.svg" width="100%" alt="Bhargav Ram — Artificial Intelligence and Data Science" />
+  </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/banner-dark-2026.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/banner-light-2026.svg">
-  <img src="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/banner-light-2026.svg" alt="Bhargav Ram GitHub banner" width="100%">
-</picture>
+  <a href="https://www.linkedin.com/in/bhargav-ram01">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:rambhargav313@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Bhargav12-surya?tab=repositories">Repositories</a>
 
-# Hi, I'm Bhargav Ram 👋
+  <h3><code>bhargav@github:~$ whoami</code></h3>
 
-### AI & Data Science Undergraduate | Deep Learning | Computer Vision | ML Systems
-
-I enjoy building machine learning projects end-to-end — from data preparation and model training to evaluation, visualization, and documentation. My strongest interests are **medical imaging**, **deep learning**, **scientific machine learning**, and **practical AI systems**.
-
-<a href="https://www.linkedin.com/in/bhargav-ram01"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:rambhargav313@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
+  <table>
+    <tr>
+      <td width="38%" valign="top">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/signal-dark-v3.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="./assets/signal-light-v3.svg" />
+          <img src="./assets/signal-light-v3.svg" alt="Animated Bhargav Ram signal monogram" width="100%" />
+        </picture>
+      </td>
+      <td width="62%" valign="top">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/info-dark-v3.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="./assets/info-light-v3.svg" />
+          <img src="./assets/info-light-v3.svg" alt="Bhargav's education, research interests and technologies" width="100%" />
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+I'm a B.Tech student in **Artificial Intelligence & Data Science** at **Amrita Vishwa Vidyapeetham, Faridabad**. I enjoy building machine learning projects from initial experiments to evaluated, documented results — especially in **medical imaging and scientific AI**.
 
-## 🚀 About Me
+### `bhargav@github:~$ ls featured-projects/`
 
-- 🎓 B.Tech in **Artificial Intelligence & Data Science** at **Amrita Vishwa Vidyapeetham, Faridabad**
-- 🔬 Interested in **Deep Learning, Computer Vision, Medical AI, and ML Research**
-- 🛠️ I like building **reproducible experiments**, clear project workflows, and readable technical documentation
-- 🤝 Open to **AI/ML internships, research opportunities, and collaboration**
+| Project | What I worked on | Tools / Areas |
+| :--- | :--- | :--- |
+| **[MSF-HSAT — 3D Lung Tumor Segmentation](https://github.com/Bhargav12-surya/CV-lung-segmentation-)** | A 3D thoracic CT tumor-segmentation pipeline using multi-scale fusion, wavelet attention, and transformers, compared against a 3D U-Net baseline. *Research prototype; not a clinical diagnostic tool.* | `PyTorch` `3D CNN` `Transformers` `Medical Imaging` |
+| **[Ultrasound Elastography — Phase 1](https://github.com/Amith-vignesh700/MIS_ETP)** | Collaborative academic work on self-supervised ultrasound RF alignment, displacement estimation, and axial strain calculation. | `Python` `CNN` `Image Registration` |
+| **[ElastoRisk — Phase 2](https://github.com/Bhargav12-surya/elastorisk-mis-phase-2-)** | Reliability analysis using probabilistic inference, HMMs, spatial reasoning, and cost-aware decisions. *Research analysis, not a clinically validated system.* | `Bayesian Models` `EM` `HMM` `MRF` |
 
-## 🧰 Tech Stack
+**Other project:** Hybrid ML–DL Crystal Structure–Property Modeling — exploring graph, convolutional, and multi-task models for material-property prediction.
 
-**Languages:** Python, Java  
-**Libraries & Frameworks:** PyTorch, scikit-learn, NumPy, Pandas, SciPy, Streamlit  
-**Domains:** Deep Learning, Computer Vision, Medical Imaging, GNNs, Transformers, Probabilistic Models  
-**Tools:** Git, GitHub, Jupyter Notebook, VS Code
+### `bhargav@github:~$ cat toolbox.txt`
 
-## 🌟 Featured Projects
+| Area | Stack |
+| :--- | :--- |
+| **Programming** | Python · Java |
+| **ML / Data** | scikit-learn · NumPy · Pandas · SciPy |
+| **Deep Learning** | PyTorch · CNNs · Transformers · Graph Neural Networks |
+| **Development** | Git · GitHub · Jupyter Notebook · VS Code |
+| **Interests** | Computer Vision · Medical Imaging · Probabilistic AI · Scientific ML |
 
-### 🫁 [MSF-HSAT — 3D Lung Tumor Segmentation](https://github.com/Bhargav12-surya/CV-lung-segmentation-)
-A research-focused PyTorch pipeline for **3D thoracic CT tumor segmentation** using multi-scale feature fusion, transformer context, wavelet attention, and adaptive decoder fusion. Built with an emphasis on evaluation, reproducibility, and result analysis. *For research and education, not clinical use.*
-
-**Tech:** `Python` `PyTorch` `3D CNNs` `Transformers` `Medical Imaging`
-
----
-
-### 🧠 [ElastoRisk — Probabilistic Reliability Analysis](https://github.com/Bhargav12-surya/elastorisk-mis-phase-2-)
-An academic project on **uncertainty-aware elastography analysis**, combining Bayesian inference, latent-variable reasoning, Hidden Markov Models, and spatial reliability modeling to support risk-aware decisions.
-
-**Tech:** `Python` `Bayesian Inference` `HMM` `MRF` `Risk Analysis`
-
----
-
-### 📡 Self-Supervised Ultrasound Elastography
-A two-part project exploring **self-supervised ultrasound RF alignment, tissue displacement estimation, and axial strain computation**. Designed to connect imaging workflows with reliability reasoning and decision analysis.
-
-**Tech:** `Python` `CNN` `Signal / Image Analysis` `Strain Estimation`
-
----
-
-### 🔬 Hybrid ML-DL Framework for Crystal Structure–Property Modeling
-A scientific ML project that combines **graph neural networks, convolutional networks, and MLP-based learning** to predict material properties across multiple structural scales.
-
-**Tech:** `Python` `Deep Learning` `GNN` `Scientific ML`
-
-## 📜 Certifications
+### `bhargav@github:~$ cat credentials.txt`
 
 - **Oracle Cloud Infrastructure** — AI Foundations Associate (2025)
 - **Cisco Networking Academy** — Introduction to Modern AI
 - **Quantium / Forage** — Data Analytics Job Simulation
-- **Tata / Forage** — GenAI Powered Data Analytics Job Simulation
-
-## 📈 What I'm currently focused on
-
-- Improving my projects and GitHub portfolio
-- Strengthening deep learning and computer vision concepts
-- Building internship-ready AI/ML project work
+- **Tata / Forage** — GenAI-Powered Data Analytics Job Simulation
 
 ---
 
 <div align="center">
-  <sub>Thanks for visiting my profile. Feel free to connect on LinkedIn or reach out by email.</sub>
+  <sub>Building carefully, learning continuously, and documenting what works.</sub>
 </div>

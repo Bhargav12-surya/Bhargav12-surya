@@ -1,9 +1,9 @@
 <!-- Personalized GitHub profile: Bhargav12-surya/Bhargav12-surya -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark-v3.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light-v3.svg" />
-    <img src="./assets/hero-light-v3.svg" width="100%" alt="Bhargav Ram — Artificial Intelligence and Data Science" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/hero-dark-v3.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/hero-light-v3.svg" />
+    <img src="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/hero-light-v3.svg" width="100%" alt="Bhargav Ram — Artificial Intelligence and Data Science" />
   </picture>
 
   <a href="https://www.linkedin.com/in/bhargav-ram01">LinkedIn</a>
@@ -18,16 +18,16 @@
     <tr>
       <td width="38%" valign="top">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/signal-dark-v3.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/signal-light-v3.svg" />
-          <img src="./assets/signal-light-v3.svg" alt="Animated Bhargav Ram signal monogram" width="100%" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/signal-dark-v3.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/signal-light-v3.svg" />
+          <img src="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/signal-light-v3.svg" alt="Animated Bhargav Ram signal monogram" width="100%" />
         </picture>
       </td>
       <td width="62%" valign="top">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/info-dark-v3.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/info-light-v3.svg" />
-          <img src="./assets/info-light-v3.svg" alt="Bhargav's education, research interests and technologies" width="100%" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/info-dark-v3.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/info-light-v3.svg" />
+          <img src="https://raw.githubusercontent.com/Bhargav12-surya/Bhargav12-surya/main/info-light-v3.svg" alt="Bhargav's education, research interests and technologies" width="100%" />
         </picture>
       </td>
     </tr>
